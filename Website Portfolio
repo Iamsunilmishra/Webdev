@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title><u>Portfolio</u></title>
+</head>
+<body>
+
+    <header>
+        <h1>Sunil Mishra</h1>
+        <p>Web Developer | Creative Thinker</p>
+    </header>
+
+    <section id="about">
+        <h2>About Me</h2>
+        <p>
+            Hey there! I'm a web developer who loves to bring ideas to life through design and code. Creating engaging and responsive websites is my passion, and I'm always excited to take on new projects. Let's work together to bring your vision to reality!
+        </p>
+    </section>
+<style>
+body 
+    {
+        font-family: 'Arial', sans-serif;
+        margin: 0;
+        padding: 0;
+        background-color: #f4f4f4;
+        color: #333;
+    }
+    
+    header {
+        background-color: #007bff;
+        color: white;
+        text-align: center;
+        padding: 1em 0;
+    }
+    
+    h1 {
+        margin: 0;
+    }
+    
+    section {
+        max-width: 800px;
+        margin: 2em auto;
+        padding: 1em;
+        background-color: white;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+    
+    ul {
+        list-style-type: none;
+        padding: 0;
+    }
+    
+    li {
+        margin-bottom: 0.5em;
+    }
+    
+    a {
+        color: #007bff;
+        text-decoration: none;
+    }
+    
+    a:hover {
+        text-decoration: underline;
+    }
+</body>  
+</style>
+
+    <section id="accomplishments">
+        <h2>Accomplishments</h2>
+        <ul>
+            <li>Completed a full-stack web development course</li>
+            <li>Developed and launched three responsive websites</li>
+            <li>Received recognition for outstanding design at a coding competition</li>
+        </ul>
+    </section>
+
+    <section id="contact">
+        <h2>Contact Me</h2>
+        <p>Email: sunilmsr2004@gmail.com</p>
+        <p>LinkedIn: https://www.linkedin.com/in/sunil-mishra-625363249?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app</p>
+        <p>GitHub: https://github.com/Iamsunilmishra</p>
+    </section>
+
+
+</body>
+</html>
